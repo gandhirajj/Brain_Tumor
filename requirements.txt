@@ -1,7 +1,4 @@
 scikit-learn
-streamlit
 tensorflow
-pillow
 matplotlib
 numpy
-seaborn
