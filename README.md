@@ -16,6 +16,7 @@ Our model achieves **~99% accuracy** in distinguishing between tumor and non-tum
 - **Prateeksha GV**, Department of AI & ML, Sri Eshwar College of Engineering  
 - **Theertha R**, Department of AI & ML, Sri Eshwar College of Engineering  
 
+Paper Link: https://liberteresearch.org/volume-13-issue-2-2025/
 ---
 
 ## ⚙️ Methodology  
@@ -107,6 +108,4 @@ Contributions are welcome! Please fork this repo and submit a pull request for i
 This project is licensed under the **MIT License** – feel free to use and modify for research and educational purposes.  
 
 ---
-```
 
-Would you like me to also **add setup & usage instructions** (commands for training, testing, and running predictions) so that anyone can quickly run this project from GitHub?
