@@ -1,8 +1,3 @@
-Got it ✅ I’ll create a **GitHub `README.md`** file for your project based on the uploaded paper *“AI-Powered Brain Tumor Identification: Using Machine Learning to Improve CNN Diagnostic Precision”*.
-
-Here’s a well-structured `README.md` you can directly use in your repo:
-
-```markdown
 # 🧠 AI-Powered Brain Tumor Identification  
 *Using Machine Learning to Improve CNN Diagnostic Precision*  
 
