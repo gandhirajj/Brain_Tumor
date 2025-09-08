@@ -73,36 +73,12 @@ Paper Link: https://liberteresearch.org/volume-13-issue-2-2025/
 ---
 
 ## 📂 Repository Structure  
-```
 
 ├── data/                 # MRI dataset (Tumor / No\_Tumor)
 ├── models/               # Saved trained CNN models
 ├── notebooks/            # Jupyter notebooks for experiments
-├── src/                  # Python scripts (training, preprocessing, prediction)
 ├── results/              # Evaluation reports & plots
 └── README.md             # Project documentation
-
-```
-
----
-
-## 📸 Sample MRI Scan  
-*(Example image of Tumor vs Non-Tumor can be added here)*  
-
----
-
-## 📜 References  
-- Esteva et al., "Dermatologist-level classification of skin cancer with deep neural networks", *Nature*, 2017.  
-- Gupta et al., "Brain Tumor Detection using CNN", 2018.  
-- Hossain et al., "Transfer Learning in Medical Imaging", 2020.  
-- LIBERTE JOURNAL, Vol. 13 Issue 2, 2025.  
-
----
-
-## 🤝 Contributing  
-Contributions are welcome! Please fork this repo and submit a pull request for improvements.  
-
----
 
 ## 📄 License  
 This project is licensed under the **MIT License** – feel free to use and modify for research and educational purposes.  
